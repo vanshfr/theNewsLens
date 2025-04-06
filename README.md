@@ -4,6 +4,8 @@
 
 This project is a Streamlit web application designed to streamline the process of researching information from multiple online sources. Users can provide a list of URLs, and the application will automatically download, process, and index the content using natural language processing techniques. The core functionality allows users to ask questions related to the content of these URLs and receive concise answers along with citations to the original sources, presented as clickable hyperlinks.
 
+[Watch the Demo Video](https://drive.google.com/file/d/19jNEzjWcISo5qIwvfV456zyF1zjSgbMj/view?usp=sharing)
+
 **Key Features:**
 
 * **Automated Content Processing:** Downloads and parses text content from the provided URLs.
