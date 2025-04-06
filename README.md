@@ -26,22 +26,6 @@ This project is a Streamlit web application designed to streamline the process o
 7.  In the Streamlit app, enter the URLs you want to analyze in the sidebar and click "Submit to process."
 8.  Once the processing is complete, type your question in the main area and press Enter to get an answer with source links.
 
-**Dependencies:**
-
-* langchain
-* langchain-community
-* streamlit
-* unstructured
-* tiktoken (may be implicitly used by Langchain/Transformers)
-* faiss-cpu
-* python-magic (or libmagic)
-* python_dotenv
-* transformers
-* langchain_huggingface
-* sentence-transformers
-* accelerate
-    *(Refer to `requirements.txt` for specific versions)*
-
 **Potential Future Enhancements:**
 
 * Allowing users to upload files (PDFs, etc.).
