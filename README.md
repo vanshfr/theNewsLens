@@ -1,4 +1,7 @@
 # The News Lens 🔍
+
+![image](https://github.com/user-attachments/assets/bec9aefb-f252-4f14-8594-25d6d40d8fe4)
+
 This project is a Streamlit web application designed to streamline the process of researching information from multiple online sources. Users can provide a list of URLs, and the application will automatically download, process, and index the content using natural language processing techniques. The core functionality allows users to ask questions related to the content of these URLs and receive concise answers along with citations to the original sources, presented as clickable hyperlinks.
 
 **Key Features:**
