@@ -3,7 +3,6 @@ This project is a Streamlit web application designed to streamline the process o
 
 **Key Features:**
 
-* **Multi-URL Input:** Accepts up to five URLs (expandable).
 * **Automated Content Processing:** Downloads and parses text content from the provided URLs.
 * **Intelligent Text Chunking:** Splits large documents into smaller, contextually relevant segments.
 * **Semantic Indexing:** Creates a vector database using Hugging Face embeddings for efficient information retrieval.
