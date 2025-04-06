@@ -33,6 +33,7 @@ This project is a Streamlit web application designed to streamline the process o
 * More control over the number of retrieved documents.
 * Saving and loading the vector database for different sets of URLs.
 
-..
-..
-P.S. I will add remaining notebook late :P
+<br>
+..<br>
+..<br>
+P.S. I will add remaining notebook and docker file later :P
