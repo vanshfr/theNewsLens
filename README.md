@@ -21,9 +21,10 @@ This project is a Streamlit web application designed to streamline the process o
 2.  Navigate to the project directory: `cd [repository directory]`
 3.  Create a virtual environment (recommended): `python -m venv venv` and activate it.
 4.  Install dependencies: `pip install -r requirements.txt`
-5.  Run the Streamlit application: `streamlit run app.py`
-6.  In the Streamlit app, enter the URLs you want to analyze in the sidebar and click "Submit to process."
-7.  Once the processing is complete, type your question in the main area and press Enter to get an answer with source links.
+5.  Add your HUGGINGFACEHUB_API_TOKEN in `.env` file before starting.
+6.  Run the Streamlit application: `streamlit run app.py`
+7.  In the Streamlit app, enter the URLs you want to analyze in the sidebar and click "Submit to process."
+8.  Once the processing is complete, type your question in the main area and press Enter to get an answer with source links.
 
 **Dependencies:**
 
